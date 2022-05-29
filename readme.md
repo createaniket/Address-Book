@@ -37,7 +37,7 @@ The software to be designed is a program that can be used to maintain an address
 |Requset Body|Type |Description|
 | --- | --- | --- | 
 | `contact`| `phonenumber` | Required Your contact number|
-|
+
 
 |`name`           | `string`    | Yourname      |
 
@@ -49,7 +49,7 @@ The software to be designed is a program that can be used to maintain an address
 |Requset Body|Type |Description|
 | --- | --- | --- | 
 | | `array of objects` | Required Your contact numbers|
-|
+
 #
 
 ## Fetch a contact of User
@@ -70,7 +70,7 @@ The software to be designed is a program that can be used to maintain an address
 |Requset Body|Type |Description|
 | --- | --- | --- | 
 | `contact`| `phonenumber` | Required Your contact number|
-|
+
 
 |`name`           | `string`    | Yourname      |
 
