@@ -13,6 +13,9 @@ The software to be designed is a program that can be used to maintain an address
 - Update any contact.
 - Delete any contact.
 - Pagination
+- JWT authentication to secure API.
+- Implement an endpoint to get the JWT token.
+
 
 # 
 # Hosted Links:
